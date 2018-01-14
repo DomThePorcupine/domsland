@@ -1,0 +1,16 @@
+{
+  "name": "domsland",
+  "version": "0.0.1",
+  "description": "Dom's Website",
+  "main": "app.js",
+  "dependencies": {
+    "finalhandler": "^1.1.0",
+    "server-static": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dominic DiPasquale",
+  "license": "ISC"
+}

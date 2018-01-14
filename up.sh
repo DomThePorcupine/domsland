@@ -1,6 +1,10 @@
 #! /bin/bash
 
-# Step one find and kill the container currently running
+# Update our git repo
+git reset --hard HEAD
+git pull
+
+# Then find and kill the container currently running
 docker stop $(docker ps | grep "domsland" | awk '{print $1;}')
 # Rebuild it
 docker build -t domsland .

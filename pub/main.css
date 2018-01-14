@@ -1,10 +1,18 @@
-footer {
-  background-color: orange;
+.footers {
+  background-color: lightgrey;
   position: absolute;
   left: 0;
   bottom: 0;
-  height: 100px;
   width: 100%;
   overflow:hidden;
-  padding: 3rem 0rem 6rem !important;
+  text-align: center;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
 }

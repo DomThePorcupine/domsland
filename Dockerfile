@@ -10,6 +10,7 @@ WORKDIR /usr/src/app
 # Copy over our important
 # files
 COPY package.json .
+COPY package-lock.json .
 COPY app.js .
 COPY pub ./pub
 

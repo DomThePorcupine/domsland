@@ -23,3 +23,9 @@ section {
   text-align: center;
   margin:0 auto;
 }
+.lobster {
+  font-family: 'Lobster', cursive;
+  font-size: 750%;
+  background-color: #1F487E;
+  color: white;
+}

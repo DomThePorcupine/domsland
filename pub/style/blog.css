@@ -1,0 +1,43 @@
+.middle {
+  max-width: 500px;
+  width: 85%;
+  text-align: center;
+  margin:0 auto;
+}
+
+.tmiddle {
+  padding-bottom: 30px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 500% !important;
+  font-family: 'Lobster', cursive;
+  color: #1F487E;
+}
+
+h2 {
+  text-align: center;
+  font-size: 250% !important;
+  font-family: 'Lobster', cursive;
+  color: #1F487E;
+}
+
+.date {
+  text-align: center;
+  font-size: 100% !important;
+  padding-bottom: 10px;
+}
+
+.content {
+  max-width: 500px;
+  width: 85%;
+  margin:0 auto;
+}
+.right {
+  text-align: right !important;
+}
+
+.shadow {
+  box-shadow: 5px 5px 5px grey !important;
+}

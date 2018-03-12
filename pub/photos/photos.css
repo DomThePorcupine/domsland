@@ -1,0 +1,26 @@
+.section {
+    max-width: 80%;
+    text-align: center;
+    margin:0 auto;
+}
+
+.photo {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+html, body {
+  background: #e0e0e0;
+}
+
+h2 {
+  text-align: center;
+  font-size: 250% !important;
+  font-family: 'Lobster', cursive;
+  color: #1F487E;
+}
+
+img {
+ 
+  border-radius: 3px;
+}

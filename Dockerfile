@@ -1,6 +1,6 @@
 # We need a very very basic
 # container, so use slim
-FROM node:9.4.0-slim
+FROM node:10.10.0-slim
 
 # Make a directory for our
 # source

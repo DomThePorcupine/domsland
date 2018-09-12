@@ -4,8 +4,7 @@
   "description": "Dom's Website",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.16.2",
-    "server-static": "^2.0.5"
+    "express": "^4.16.3"
   },
   "devDependencies": {},
   "scripts": {
